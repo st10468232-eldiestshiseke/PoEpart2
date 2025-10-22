@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
   input: { borderWidth:1, borderColor:'#ddd', padding:8, borderRadius:8, marginBottom:10 },
   picker: { marginBottom:10 },
   total: { fontWeight:'bold', marginTop:14 },
-  card: { backgroundColor:'#fff', padding:10, borderRadius:8, marginTop:8, elevation:2 },
+  card: { backgroundColor:'transparent', padding:10, borderRadius:8, marginTop:8, elevation:2 },
   cardTitle: { fontWeight:'bold', fontSize:16 },
   desc: { color:'#555' }
 });

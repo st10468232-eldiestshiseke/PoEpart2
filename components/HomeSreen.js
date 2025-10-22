@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { View, Text, TextInput, Button, FlatList, StyleSheet } from 'react-native';
+import { View, Text, TextInput, Button, FlatList, StyleSheet, ImageBackground } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
 
 export default function HomeScreen() {
@@ -15,8 +15,12 @@ export default function HomeScreen() {
     setMenuItems(prev => [...prev, newItem]);
     setDishName(''); setDescription(''); setPrice('');
   };
-
   return (
+     <ImageBackground
+      source={{ uri: 'https://i.pinimg.com/736x/d1/81/28/d181288201887353a6d459b97aeb17af.jpg' }} 
+      style={styles.container}
+      resizeMode="cover"
+    >
     <View style={styles.container}>
       <Text style={styles.header}>Christoffel’s Menu</Text>
 
@@ -47,11 +51,12 @@ export default function HomeScreen() {
         )}
       />
     </View>
+    </ImageBackground>
   );
 }
 
 const styles = StyleSheet.create({
-  container: { flex:1, padding:20, backgroundColor:'#fafafa' },
+  container: { flex:1, padding:20, backgroundColor:'#' },
   header: { fontSize:22, fontWeight:'bold', marginBottom:12 },
   input: { borderWidth:1, borderColor:'#ddd', padding:8, borderRadius:8, marginBottom:10 },
   picker: { marginBottom:10 },

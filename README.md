@@ -63,3 +63,9 @@ App.js – The main entry point, managing state and navigation
 HomeScreen.js – Displays all menu items and the total number
 
 AddMenuItem.js – Handles the input form for adding dishes
+
+
+
+
+![WhatsApp Image 2025-10-22 at 23 55 13_9844b6ed](https://github.com/user-attachments/assets/aba132db-5dd7-4666-b8cc-7182db3fce31)
+

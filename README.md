@@ -1,7 +1,7 @@
-Portfolio of Evidence (PoE) – Part 2
-App Development: Christoffel’s Menu Management App (React Native)
+# Portfolio of Evidence (PoE) – Part 2
+## App Development: Christoffel’s Menu Management App (React Native)
 Part 2 — Creating the Basic User Interface and Features
-Objective
+### Objective
 
 In Part 2, we move from the planning stage into the implementation stage of Christoffel’s Menu Management App.
 The main focus of this part is to build the basic user interface and implement core functionalities that allow the chef to manage menu items dynamically.

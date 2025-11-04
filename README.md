@@ -69,3 +69,11 @@ AddMenuItem.js – Handles the input form for adding dishes
 
 ![WhatsApp Image 2025-10-22 at 23 55 13_9844b6ed](https://github.com/user-attachments/assets/aba132db-5dd7-4666-b8cc-7182db3fce31)
 
+/**
+ * Title: IIE Module Manual 2025
+ * Author: The Independent Institute of Education (Pty) Ltd
+ * Version: First Edition (2022)
+ * Available at: https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/_layouts/15/Doc.aspx?sourcedoc=%7BC4AAF478-96AC-4469-8005-F7CDC4A15EBB%7D&file=MAST5112MM.docx&action=default&mobileredirect=true
+ * Date accessed: 27/08/2025
+ */
+
